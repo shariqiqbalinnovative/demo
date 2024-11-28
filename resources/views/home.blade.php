@@ -16,7 +16,12 @@
 
 
 
+
                     
+
+
+
+
                     {{ __('You are logged in!') }}
                 </div>
             </div>
